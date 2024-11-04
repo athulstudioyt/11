@@ -2,38 +2,38 @@
 let All_song = [
    {
      name: "Rockaankuthu",
-     path: "music/1.mp3",
-     img: "images/1.jpg",
+     path: "music-1.mp3",
+     img: "Music-1.jpg",
      singer: "Anirudh Ravichander"
    },
    {
      name: "Dippam Dappam",
-     path: "music/2.mp3",
-     img: "images/2.jpg",
+     path: "music-2.mp3",
+     img: "Music-2.jpg",
      singer: "Anirudh Ravichander"
    },
    {
      name: "Sodakku",
-     path: "music/3.mp3",
-     img: "images/3.jpg",
+     path: "music-3.mp3",
+     img: "music-3.jpg",
      singer: "Anirudh Ravichander"
    },
    {
      name: "Hukum - Thalaivar Alappara",
-     path: "music/4.mp3",
-     img: "images/4.jpg",
+     path: "music-4.mp3",
+     img: "music-4.jpg",
      singer: "Anirudh Ravichander"
    },
    {
      name: "Naa Ready",
-     path: "music/5.mp3",
-     img: "images/5.jpg",
+     path: "music-5.mp3",
+     img: "music-5.jpg",
      singer: "Anirudh Ravichander"
    },
    {
     name: "Fear Song",
-    path: "music/6.mp3",
-    img: "images/6.jpg",
+    path: "music-6.mp3",
+    img: "music-6.jpg",
     singer: "Anirudh Ravichander"
    },
       {
